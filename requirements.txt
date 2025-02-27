@@ -1,0 +1,9 @@
+streamlit
+torch
+transformers
+indic-transliteration
+pandas
+plotly
+gtts
+PIL
+numpy
